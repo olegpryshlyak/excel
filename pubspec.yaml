@@ -14,10 +14,10 @@ environment:
 
 dependencies:
   archive: ^4.0.7
-  xml: ">=5.0.0 <7.0.0"
+  xml: ^7.0.1
   collection: ^1.19.1
-  equatable: ^2.0.7
+  equatable: ^3.0.0
 
 dev_dependencies:
   test: ^1.23.0
-  lints: ^2.1.0
+  lints: ^6.1.0
